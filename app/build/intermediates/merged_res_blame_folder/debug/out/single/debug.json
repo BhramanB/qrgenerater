@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\bhram\\.gradle\\daemon\\8.2\\com.example.qrcodegenerator.app-merged_res-31:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\bhram\\.gradle\\daemon\\8.2\\com.example.qrcodegenerator.app-main-33:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhram\\.gradle\\daemon\\8.2\\com.example.qrcodegenerator.app-merged_res-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\bhram\\.gradle\\daemon\\8.2\\com.example.qrcodegenerator.app-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bhram\\.gradle\\daemon\\8.2\\com.example.qrcodegenerator.app-merged_res-31:\\drawable_edittext_background.xml.flat",
+        "source": "C:\\Users\\bhram\\.gradle\\daemon\\8.2\\com.example.qrcodegenerator.app-main-33:\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "com.example.qrcodegenerator.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.qrcodegenerator.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.qrcodegenerator.app-merged_res-31:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.qrcodegenerator.app-main-33:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.qrcodegenerator.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.qrcodegenerator.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]
